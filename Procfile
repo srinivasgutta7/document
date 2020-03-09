@@ -1,1 +1,1 @@
-web: gunicorn Resemblance-master.wsgi
+web: gunicorn similarity.wsgi
