@@ -1,1 +1,1 @@
-web: gunicorn sim.wsgi
+web: gunicorn Resemblance-master.wsgi
